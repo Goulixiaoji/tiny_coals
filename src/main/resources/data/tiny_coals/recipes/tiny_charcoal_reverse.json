@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["###","# #","###"],
+  "key": {
+    "#": {
+      "item": "tiny_coals:tiny_charcoal"
+    }
+  },
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  }
+}
