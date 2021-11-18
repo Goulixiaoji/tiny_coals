@@ -2,8 +2,8 @@ package net.abstruck.goulixiaoji.tiny_coals.registry;
 
 import net.abstruck.goulixiaoji.tiny_coals.TinyCoals;
 import net.abstruck.goulixiaoji.tiny_coals.common.item.Coals;
-import net.minecraft.item.Item;
-import net.minecraftforge.fml.RegistryObject;
+import net.minecraft.world.item.Item;
+import net.minecraftforge.fmllegacy.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 

@@ -18,4 +18,5 @@ public class TinyCoals {
         MinecraftForge.EVENT_BUS.register(this);
         CoalRegistry.ITEMS.register(bus);
     }
+
 }
