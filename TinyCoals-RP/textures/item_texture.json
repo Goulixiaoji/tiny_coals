@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "tiny_coal": {"textures": "textures/items/tiny_coal"},
+    "tiny_charcoal": {"textures": "textures/items/tiny_charcoal"}
+  }
+}

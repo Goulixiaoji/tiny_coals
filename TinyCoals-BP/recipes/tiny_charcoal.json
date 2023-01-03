@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "tiny_coals:tiny_charcoal_crafting"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:charcoal"
+      }
+    ],
+    "result": {
+      "item": "tiny_coals:tiny_charcoal",
+      "count": 8
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Bring Tiny-Coals to Bedrock.",
+    "name": "Tiny Coals",
+    "uuid":"02b8397d-cf34-434f-94a1-28d8351fabe2",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Bring Tiny-Coals to Bedrock.",
+      "type": "resources",
+      "uuid": "571d83f0-3b12-496b-a38a-44ebb6f89f9a",
+      "version": [1, 0, 0]
+    }
+  ]
+}

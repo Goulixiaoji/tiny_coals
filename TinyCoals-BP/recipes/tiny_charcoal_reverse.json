@@ -1,0 +1,23 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "tiny_coals:tiny_charcoal_reverse_crafting"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "tiny_coals:tiny_charcoal"
+      }
+    },
+    "result": {
+      "item": "minecraft:charcoal",
+      "count": 1
+    }
+  }
+}
